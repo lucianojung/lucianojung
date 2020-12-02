@@ -1,10 +1,10 @@
 #### "Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it."
 ###### Ellen Ullman
 ---
-##### Hi there 👋, my Name is Luciano Jung.
-##### I'm from Germany, I study Information Science and develop various Software.
+#### Hi there 👋, my Name is Luciano Jung.
+#### I'm from Germany, I study Information Science and develop various Software.
 
-#### Skills: Java (Spring Boot), DevOps (GitLabCI), Android (Java, Flutter), Web (Angular)
+### Skills: Java (Spring Boot), DevOps (GitLabCI), Android (Java, Flutter), Web (Angular)
 
 - 🔭 I’m currently working on establishing our agile IWiGA startup -> [IWiGA](https://www.iwiga.de/)
 - 🌱 I’m currently learning BigData in an eHealth Startup Company
