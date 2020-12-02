@@ -1,16 +1,24 @@
-### Hi there 👋
+#### "Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it."
+###### Ellen Ullman
+---
+##### Hi there 👋, my Name is Luciano Jung.
+##### I'm from Germany, I study Information Science and develop various Software.
+
+#### Skills: Java (Spring Boot), DevOps (GitLabCI), Android (Java, Flutter), Web (Angular)
+
+- 🔭 I’m currently working on establishing our agile IWiGA startup -> [IWiGA](https://www.iwiga.de/)
+- 🌱 I’m currently learning BigData in an eHealth Startup Company
+- 👯 I’m looking to collaborate on Projects with business potential
+- 💬 Ask me about technologies, the environment and agile project development
+- 📫 How to reach me: [LucianoJung](mailto:luciano.jung@posteo.de)
+- ⚡ Fun fact: I'm neither a rapper nor an opera singer 😄
+---
+##### Connect with me:
+[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/luciano-jung-3783a31a0/)
 
 <!--
-**lucianojung/lucianojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianojung&show_icons=true&theme=graywhite)
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/lucianojung)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
