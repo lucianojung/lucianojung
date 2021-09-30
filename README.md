@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/33691403/135431755-1da72a4b-2beb-4085-b36c-923787cd67cb.jpg" width="64" /> 
+
 #### "Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it."
 ###### Ellen Ullman
 ---
