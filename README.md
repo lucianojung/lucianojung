@@ -4,13 +4,13 @@
 ###### Ellen Ullman
 ---
 #### Hi there 👋, my Name is Luciano Jung.
-#### I'm from Germany, I study Information Science and develop various Software.
+#### I'm currently a Data Scientist at U2care with a passion to app development.
 
 ### Skills: Java (Spring Boot), DevOps (GitLabCI), Android (Java, Flutter), Web (Angular)
 
-- 🔭 I’m currently working on establishing our agile IWiGA startup -> [IWiGA](https://www.iwiga.de/)
-- 🌱 I’m currently learning BigData in an eHealth Startup Company
-- 👯 I’m looking to collaborate on Projects with business potential
+- 🔭 I’m currently working on some IOT home gadgets and self made robots
+- 🌱 I’m currently learning Data Science in an eHealth Startup Company
+- 👯 I’m looking to collaborate on Projects with business and/or helpful potential
 - 💬 Ask me about technologies, the environment and agile project development
 - 📫 How to reach me: [LucianoJung](mailto:luciano.jung@posteo.de)
 - ⚡ Fun fact: I'm neither a rapper nor an opera singer 😄
